@@ -1,0 +1,3 @@
+export const DEFAULT_BASE_FONT_SIZE = 14;
+export const DEFAULT_ANNOTATION_FONT_SIZE = 8;
+export const DEFAULT_LINE_HEIGHT_RATIO = 1.2;
